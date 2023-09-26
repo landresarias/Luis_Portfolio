@@ -1,5 +1,5 @@
 # Luis_Portfolio
-Links to some own websites projects
+Links to some own static websites projects not any dinamic websites
 
 https://landresarias.github.io/HTML_CSS_JS_Project/
 https://landresarias.github.io/react_multipages/
